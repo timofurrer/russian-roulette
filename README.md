@@ -35,3 +35,4 @@ sudo make install
 
 ... don't be stupid and play russian roulette - ever! <br>
 ... What? You already played and lost? Well, better for you that you haven't made this decision with a loaded gun!
+... and Yes, it really does try to remove your entire system ...
