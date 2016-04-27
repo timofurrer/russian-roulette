@@ -2,7 +2,7 @@
 
 You want to push your luck or you are just extremely bored? OK - That's great!
 
-Got ahead and challenge your luck with this awesome command line based *russian roulette*:
+Go ahead and challenge your luck with this awesome command line based *russian roulette*:
 
 ```bash
 sudo russian-roulette
