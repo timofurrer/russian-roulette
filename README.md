@@ -1,4 +1,4 @@
-# russian-roulette
+# russian-roulette :four_leaf_clover:
 
 You want to push your luck or you are just extremely bored? OK - That's great!
 
