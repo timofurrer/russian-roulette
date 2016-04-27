@@ -1,6 +1,6 @@
 install:
-	@echo Installing russian_roulette to /usr/bin
-	@cp russian-roulette.sh /usr/bin/russian-roulette
+	@echo Installing russian-roulette to /usr/bin
+	@cp russian-roulette /usr/bin/russian-roulette
 
 
 uninstall:

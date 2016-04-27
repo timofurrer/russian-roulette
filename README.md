@@ -12,7 +12,7 @@ sudo russian-roulette
 **All-in-one**:
 
 ```bash
-wget https://raw.githubusercontent.com/timofurrer/russian-roulette/master/russian-roulette.sh -O - | sudo bash
+wget https://raw.githubusercontent.com/timofurrer/russian-roulette/master/russian-roulette -O - | sudo bash
 ```
 
 
