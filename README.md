@@ -30,3 +30,8 @@ git clone https://github.com/timofurrer/russian-roulette
 cd russian-roulette
 sudo make install
 ```
+
+## Just for the record ...
+
+... don't be stupid and play russian roulette - ever!
+... What? You already played and lost? Well, better for you that you haven't made this decision with a real gun!
