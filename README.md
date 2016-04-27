@@ -34,4 +34,4 @@ sudo make install
 ## Just for the record ...
 
 ... don't be stupid and play russian roulette - ever! <br>
-... What? You already played and lost? Well, better for you that you haven't made this decision with a real gun!
+... What? You already played and lost? Well, better for you that you haven't made this decision with a loaded gun!
