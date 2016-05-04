@@ -1,4 +1,4 @@
-# russian-roulette :four_leaf_clover:
+# russian-roulette :four_leaf_clover: :gun:
 
 You want to push your luck or you are just extremely bored? OK - That's great!
 
