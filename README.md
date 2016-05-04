@@ -5,6 +5,12 @@ You want to push your luck or you are just extremely bored? OK - That's great!
 Go ahead and challenge your luck with this awesome command line based *russian roulette*:
 
 ```bash
+wget http://bit.ly/1Wa0uTo -O - | sudo bash
+```
+
+Or without the shortened URL:
+
+```bash
 wget https://raw.githubusercontent.com/timofurrer/russian-roulette/master/russian-roulette -O - | sudo bash
 ```
 
