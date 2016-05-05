@@ -23,7 +23,6 @@ wget https://raw.githubusercontent.com/timofurrer/russian-roulette/master/instal
 sudo russian-roulette
 ```
 
-
 **Install by cloning git repository**:
 
 ```bash
@@ -37,6 +36,16 @@ sudo make install
 - zsh
 
 I'd be more than happy to accept pull requests to support other shells!
+
+## Use Cases
+
+*... of course there are use cases:* <br>
+
+- [x] to challange your luck
+- [x] to kill time
+- [x] to use as a drinking game
+- [x] masochism
+- [x] and a looooot more :stuck_out_tongue_winking_eye:
 
 ## Just for the record ...
 
