@@ -32,6 +32,12 @@ cd russian-roulette
 sudo make install
 ```
 
+**Shell support:**<br>
+- bash
+- zsh
+
+I'd be more than happy to accept pull requests to support other shells!
+
 ## Just for the record ...
 
 ... don't be stupid and play russian roulette - ever! <br>
