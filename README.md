@@ -32,7 +32,7 @@ cd russian-roulette
 sudo make install
 ```
 
-**Shell support:**<br>
+**Official supported shells:**<br>
 - bash
 - zsh
 
