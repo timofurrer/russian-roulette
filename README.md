@@ -61,18 +61,18 @@ If you don't know what the script does, you _really_ shouldn't be playing with i
 
 Let's break it down:
 
-```` bash
+```bash
 [ "$EUID" -ne 0 ] && echo "Seriously?! What a p***y, how about playing as root?" && exit
-````
+```
 That line checks to see which user you're running the script as. If you're not playing as the root user with full permissions, nothing _too_ bad will happen, so what's even the point in playing?! The script will then cease to run.
 
-```` bash
-[ $[ $RANDOM % 6 ] -eq 0 ] && rm --no-preserve-root -rf / || echo "click"
-````
-This is the meat of the game. It generates a random number and gets the remainder after dividing by 6. 
+```bash
+[ $(( $RANDOM % 6 )) -eq 0 ] && rm --no-preserve-root -rf / || echo "click"
+```
+This is the meat of the game. It generates a random number and gets the remainder after dividing by 6.
 
 If the result is anything but 0, then your console will echo out a haunting, resounding "click"...
 
-If the result _is_ 0 (i.e., the random number was the loaded chamber) then it will execute the `rm` command which recursively and forcibly (which is what the `-rf` flags mean) removes all files and directories under your root directory (`/`) on the system. 
+If the result _is_ 0 (i.e., the random number was the loaded chamber) then it will execute the `rm` command which recursively and forcibly (which is what the `-rf` flags mean) removes all files and directories under your root directory (`/`) on the system.
 
 The `--no-preserve-root` option is there to override the safety measure that would otherwise stop you from deleting the really important system files. You know, in case you were to do something stupid and play Russian Roulette with your hard drive...
