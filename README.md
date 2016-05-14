@@ -1,5 +1,7 @@
 # russian-roulette :four_leaf_clover: :gun:
 
+**See also the nasty git version of it: [git-russian-roulette](https://github.com/timofurrer/git-russian-roulette)**
+
 You want to push your luck, or you're just extremely bored? OK – that's great!
 
 Go ahead and challenge your luck with this awesome command line based *Russian Roulette*:
