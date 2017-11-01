@@ -44,7 +44,7 @@ I'd be more than happy to accept pull requests to support other shells!
 
 *... of course there are use cases:*
 
-- [x] to challange your luck
+- [x] to challenge your luck
 - [x] to kill time
 - [x] to use as a drinking game
 - [x] masochism
