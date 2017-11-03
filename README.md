@@ -25,6 +25,13 @@ wget https://raw.githubusercontent.com/timofurrer/russian-roulette/master/instal
 sudo russian-roulette
 ```
 
+**docker, because docker**:
+
+```bash
+docker build . -t russian-roulette
+docker run --rm -it russian-roulette
+```
+
 **Install by cloning git repository**:
 
 ```bash
